@@ -28,8 +28,8 @@ For more information check Stanford <a href="http://yuba.stanford.edu/vns/assign
 
 Partners
 --------
-Wassim Itani
-Ahmad El Hajj
+* Wassim Itani
+* Ahmad El Hajj
 
 References
 ----------
